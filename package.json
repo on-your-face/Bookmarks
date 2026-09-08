@@ -1,6 +1,6 @@
 {
-   "name": "bkmrks.v2",
-   "version": "2.0.0",
+   "name": "Bookmarks",
+   "version": "1.0.0",
    "description": "",
    "main": "script.js",
    "scripts": {
